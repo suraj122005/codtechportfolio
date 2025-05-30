@@ -10,6 +10,8 @@ DOMAIN: FRONT END DEVELOPMENT
 DURATION : 4 WEEEKS
 
 *MENTOR*: NEELA SANTOSH
+
+
 *projecT decription*:A portfolio website, built with HTML and CSS, allows individuals to showcase their work, skills, and achievements to potential clients or employers. HTML provides the structural foundation, while CSS styles and presents the content.
 
 
