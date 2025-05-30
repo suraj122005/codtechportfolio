@@ -50,7 +50,7 @@ Define your target audience, choose a design, and plan the content for each sect
 
 2. HTML Structure:
 
-Create the basic HTML structure for each section, using appropriate tags (e.g., <div>, <img>, <p>, <ul>, <li>). 
+Create the basic HTML structure for each section, using appropriate tags (e.g., *<div*>, *<img*>, *<p*>, *<ul*>, *<li*>). 
 
 3. CSS Styling:
 
